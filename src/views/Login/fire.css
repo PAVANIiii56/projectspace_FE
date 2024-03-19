@@ -1,0 +1,15 @@
+@media screen and (min-width:300px) and (max-width:375px){
+    .a{
+    width: 270px;
+    }
+}
+@media screen and (min-width:376px) and (max-width:720px){
+    .a{
+    width: 320px;
+    }
+}
+@media screen and (min-width:720px) and (max-width:3000px){
+    .a{
+    width: 420px;
+    }
+}

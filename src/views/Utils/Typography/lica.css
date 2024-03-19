@@ -1,0 +1,30 @@
+@media screen and (min-width:320px) and  (max-width: 720px){
+    .a img{
+        width: 70px;
+        height: 70px;
+    }
+    .b img{
+        width: 150px;
+        height: 150px;
+    }
+}
+@media screen and (min-width:720px) and  (max-width: 3000px){
+    .a img{
+        width: 150px;
+        height: 150px;
+    }
+    .b img{
+        width: 600px;
+        height: 350px;
+    }
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.b a:hover{
+    color: black;
+    font-size: medium;
+}
